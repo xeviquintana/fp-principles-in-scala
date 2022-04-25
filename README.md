@@ -3,4 +3,4 @@ Functional Programming Principles in Scala by École Polytechnique Fédérale de
 
 > How to navigate this repo
 
-Each challenge lives in a separate branch. Switch to it and navigate to src and test folders to review the code.
+Each challenge lives in a separate folder. Switch to it and navigate to src and test folders to review the code.
