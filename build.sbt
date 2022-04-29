@@ -36,6 +36,13 @@ lazy val `week2-assignment1` = (project in file("week2-assignment1"))
     course := "progfun1"
 )
 
+lazy val `week3-example1` = (project in file("week3-example1"))
+  .settings(
+    sharedSettings,
+    assignment := "funsets",
+    course := "progfun1"
+)
+
 lazy val root = project
   .in(file("."))
   .settings(
